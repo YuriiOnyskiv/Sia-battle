@@ -10,7 +10,7 @@ namespace Sea_fight_2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
-            Application.Run(new MainForm());
+            Application.Run(new StartForm());
         }
     }
 }
