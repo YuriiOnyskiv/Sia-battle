@@ -54,9 +54,9 @@
             // label1
             // 
             this.label1.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.label1.Location = new System.Drawing.Point(536, 465);
+            this.label1.Location = new System.Drawing.Point(521, 465);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(180, 13);
+            this.label1.Size = new System.Drawing.Size(195, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "By Yurii Onyskiv and Ihor Pereverten";
             // 
